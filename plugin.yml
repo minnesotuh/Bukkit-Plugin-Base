@@ -1,0 +1,10 @@
+name: PluginName
+version: 1.0
+description: Cool plugin
+author: Minnesotuh
+main: me.yourname.pluginname.PluginName
+
+commands:
+  example:
+    description: 'Example command'
+    usage: '/<command>'
